@@ -1,2 +1,0 @@
-OpenERP-Localiza-o-Brasil
-=========================
